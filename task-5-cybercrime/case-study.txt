@@ -1,0 +1,17 @@
+Case Study: The "Refund" UPI Scram  
+
+​Type of Crime: UPI/Online Payment Fraud  
+
+​1. What is the crime?
+This is a form of social cheating where a fraudster tricks a victim into authorizing a "Collect Request" or scanning a QR code under the impression of receiving money, when in reality, they are sending money.  
+​2. How it typically happens (Step-by-Step):  
+​The Hook: The victim lists a used item for sale on an online marketplace or expects a refund from a recent delivery.  
+The Contact: A fraudster contacts the victim via WhatsApp, acting as a buyer or customer service agent.  
+The Deception: The fraudster claims they want to pay immediately but "the bank server is down." They send a QR code or a UPI "Collect Request" to the victim.  
+The Trap: The fraudster tells the victim, "Scan this code to receive your payment."  
+The Theft: As soon as the victim enters their UPI PIN, the money is instantly debited from their account instead of being credited. The fraudster then deletes their profile and disappears.  
+  
+​3. Who is targeted?  
+Young adults and students are often targeted because they frequently use digital payment apps for quick transactions and may not realize that a PIN is only required to send money, never to receive it.  
+4. Consequences:  
+The primary consequence is immediate financial loss, which can be devastating for a student on a budget. Secondary consequences include loss of trust in digital systems and potential identity exposure if the fraudster gained access to other personal details during the interaction.
